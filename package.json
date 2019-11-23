@@ -1,6 +1,6 @@
 {
   "name": "@averjs/purgecss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "purgecss plugin for averjs",
   "main": "lib/index.js",
   "repository": "https://github.com/exreplay/averjs-purgecss.git",
