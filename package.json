@@ -21,18 +21,18 @@
     }
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "2.1.0",
+    "@fullhuman/postcss-purgecss": "2.3.0",
     "lodash": "4.17.15"
   },
   "devDependencies": {
-    "commitlint": "8.3.5",
+    "commitlint": "8.3.6",
     "eslint": "6.8.0",
     "eslint-config-standard": "14.1.1",
-    "eslint-plugin-import": "2.20.2",
+    "eslint-plugin-import": "2.25.4",
     "eslint-plugin-node": "11.1.0",
-    "eslint-plugin-promise": "4.2.1",
-    "eslint-plugin-standard": "4.0.1",
-    "husky": "4.2.3",
+    "eslint-plugin-promise": "4.3.1",
+    "eslint-plugin-standard": "4.1.0",
+    "husky": "4.3.8",
     "standard-version": "7.1.0"
   }
 }
